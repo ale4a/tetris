@@ -1,46 +1,48 @@
-# React Tetris
+# 🎮 React Tetris
 
-> Fully responsive tetris game built with ReactJS
+🚀 Try the live version here 👉[Tetris Demo](https://tetris20.vercel.app/)
 
-<p align="start">
-	  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mpirescarvalho/react-tetris?style=flat">
-	  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mpirescarvalho/react-tetris">
-	  <img alt="GitHub stars" src="https://img.shields.io/github/stars/mpirescarvalho/react-tetris?style=social">
-	  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mpirescarvalho/react-tetris">
-	  <a href="https://mpirescarvalho.github.io/react-tetris/">
-			<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmpirescarvalho.github.io/react-tetris">
-    </a>
-</p>
+<div align="center">
+  <img alt="React Tetris Desktop" src="./assets/react-tetris-desktop-1.png" />
 
-## Live
+</div>
 
-You can find the application live here:
-https://mpirescarvalho.github.io/react-tetris/
+## 🛠️ Requirements
 
-<h1 align="center">
-  <img alt="React tetris desktop" title="#React tetris desktop" src="./assets/react-tetris-desktop-1.png" />
-  <img width="35%" alt="React tetris mobile 2" title="#React tetris mobile 2" src="./assets/react-tetris-mobile-2.png" />
-  <img width="35%" alt="React tetris mobile 1" title="#React tetris mobile 1" src="./assets/react-tetris-mobile-1.png" />
-</h1>
+- Node.js (v16.x)
 
-## Building
+## 📥 Download and Run
 
-You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
+1. **Download the project**  
+   Clone the repository:
 
-```bash
-$ git clone https://github.com/mpirescarvalho/react-tetris.git
-$ cd react-tetris
-$ npm install
-$ npm run start
-```
+   ```bash
+   git clone https://github.com/ale4a/tetris
+   ```
 
-Runs the app in the development mode.<br/>
+2. **Navigate to the folder**
 
-## Contact
+   ```bash
+   cd react-tetris
+   ```
 
-<a href="https://github.com/mpirescarvalho">
-  <img alt="made by Marcelo Carvalho" src="https://img.shields.io/badge/made%20by-Marcelo Carvalho-%237519C1">
-</a>
-<a href="mailto:mpirescarvalho17@gmail.com">
-  <img alt="made by Marcelo Carvalho" src="https://img.shields.io/badge/-mpirescarvalho17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpirescarvalho17@gmail.com" />
-</a>
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Run the app locally**
+   ```bash
+   npm start
+   ```
+
+<div align="center">
+  <img width="35%" alt="React Tetris Mobile 2" src="./assets/react-tetris-mobile-2.png" />
+  <img width="35%" alt="React Tetris Mobile 1" src="./assets/react-tetris-mobile-1.png" />
+</div>
+
+## 📩 Contributors
+
+Made by **Marcelo Carvalho**  
+and updated by **Alejandro Alvarez**
