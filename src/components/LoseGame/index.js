@@ -77,7 +77,11 @@ const Button = styled.button`
 
 `;
 
-const LoseGame = ({status, portrait, pixelSize, theme3d, restartClick}) => (
+const LoseGame = ({status, portrait, pixelSize, theme3d, restartClick}) => {
+	// TODO: UPDATE NFT
+	console.log({status})
+	return(
+	
 	<CenterOverlay>
 		<LoseContainer portrait={portrait} pixelSize={pixelSize} theme3d={theme3d}>
 			<Title portrait={portrait}>Game Over</Title>
@@ -91,6 +95,6 @@ const LoseGame = ({status, portrait, pixelSize, theme3d, restartClick}) => (
 			</ContainerButton>
 		</LoseContainer>
 	</CenterOverlay>
-);
+)};
 
 export default LoseGame;

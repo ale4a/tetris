@@ -5,6 +5,7 @@ import Game from "../Game";
 
 const Tetris = () => {
 	const [runing, setRuning] = useState(false);
+	// TODO: MINT NFT	
 	return runing ? (
 		<Game stopClick={() => setRuning(false)} />
 	) : (
